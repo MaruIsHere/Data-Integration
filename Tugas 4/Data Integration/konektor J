@@ -1,0 +1,2 @@
+penyimpanan konektor j , copy mysql-connector-j-8.1.0 pindahkan ke pentaho (pdi-ce-9.0.0.0-428) data-integration lib lalu paste
+fungsinya konektor j untuk munghubungkan pentaho dengan database agar nantinya datanya dari pentaho bisa masuk ke database
